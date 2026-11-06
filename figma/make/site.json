@@ -1,0 +1,10 @@
+{
+  "description": "Showcases SAM CoatX’s residential and commercial painting services, projects, colour inspiration, and simple enquiry options for customers planning a refresh.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
